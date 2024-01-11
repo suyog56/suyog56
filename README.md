@@ -3,10 +3,10 @@
 
 I'm a passionate [Your Profession/Interest] from [Your Location]. Here are a few things about me:
 
-- 🔭 I’m currently working on Data Analyst.
+- 🔭 I’m currently working on Data .
 - 🌱 I’m currently learning Data Science.
 - 👯 I’m looking to collaborate .
-- 💬 Ask me about Data Science.
+- 💬 Ask me about Data Science / AI.
 - ⚡ Fun fact: Tech ! 
 
 
