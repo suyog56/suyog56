@@ -27,6 +27,6 @@ Feel free to explore my repositories for more!
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([Your LinkedIn Profile Link](https://www.linkedin.com/in/suyog-hole-b31066132/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]((https://www.linkedin.com/in/suyog-hole-b31066132/))
 
 Let's connect and build amazing things together! 😊
