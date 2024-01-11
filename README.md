@@ -7,7 +7,6 @@ I'm a passionate [Your Profession/Interest] from [Your Location]. Here are a few
 - 🌱 I’m currently learning Data Science.
 - 👯 I’m looking to collaborate .
 - 💬 Ask me about Data Science.
-- 📫 How to reach me: https://www.linkedin.com/in/suyog-hole-b31066132/.
 - ⚡ Fun fact: Tech ! 
 
 
