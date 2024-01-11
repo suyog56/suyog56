@@ -12,7 +12,6 @@ I'm a passionate [Your Profession/Interest] from [Your Location]. Here are a few
 
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 English  , Marathi , Hindi .
 
