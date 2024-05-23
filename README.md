@@ -7,7 +7,7 @@ I'm a passionate [Your Profession/Interest] from [Your Location]. Here are a few
 - 🌱 I’m currently learning Data Science.
 - 👯 I’m looking to collaborate .
 - 💬 Ask me about Data Science / AI.
-- ⚡ Fun fact: Tech ! 
+- ⚡ Tech ! 
 
 
 ## Top Languages
